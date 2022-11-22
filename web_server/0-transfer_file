@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # script that transfers a file from client end to as a server
-#!/usr/bin/env bash
 # tranfer file from client to server
 # Requirment :
 #    The path to the file to be transferred
